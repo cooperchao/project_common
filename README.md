@@ -1,3 +1,5 @@
+common files setting
+
 .eslintrc.js
 .gitignore
 gulpfile.js
