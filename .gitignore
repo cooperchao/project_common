@@ -1,0 +1,6 @@
+*.tmp
+*.cmd
+
+build/
+node_modules/
+css/
